@@ -8,3 +8,4 @@ venv
 *.out
 _build
 .seaice_auth
+.seaice
